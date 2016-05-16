@@ -2,7 +2,7 @@
 
 <h1>Меня трудно найти, легко потерять и невозможно забыть ;)</h1>
 
-<h1><img scr='/media/myapps/demo/public/lol.JPEG'</h1>
+<p><img scr='/media/myapps/demo/public/lol.JPEG' alt='бла-бла'</p>
 
 <h1> P.S. Вася из контакта.
 
