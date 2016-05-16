@@ -1,8 +1,9 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Меня трудно найти, легко потерять и невозможно забыть ;)</h1>
-
-<p><img scr='/media/myapps/demo/public/lol.JPEG' alt='бла-бла'</p>
+<body>
+  <p><img scr='/media/myapps/demo/public/lol.JPEG' alt='бла-бла'</p>
+</body>
 
 <h1> P.S. Вася из контакта.
 
