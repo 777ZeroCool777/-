@@ -1,7 +1,8 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Меня трудно найти, легко потерять и невозможно забыть ;)
-<img height='478' scr='/media/myapps/demo/public/lol.jpg' with='386'></h1>
+<h1>Меня трудно найти, легко потерять и невозможно забыть ;)</h1>
+
+<h1><img scr='/media/myapps/demo/public/lol.jpg'</h1>
 
 <h1> P.S. Вася из контакта.
 
