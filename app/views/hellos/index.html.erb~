@@ -2,11 +2,13 @@
 
 <h1>Меня трудно найти, легко потерять и невозможно забыть ;)</h1>
 
-<body>
-  <p><img src="lol.jpg" height='478' with='386'></p>
-</body>
+<p><img src="lol.jpg" height='478' with='386'></p>
 
-<h1> P.S. Вася из контакта.
+<h1> P.S. Вася из контакта.</h1>
+
+<p>Автор: ZeroCool</p>
+
+<p>mail: exwarvlad@gmail.com</p>
 
 <table>
   <thead>
