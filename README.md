@@ -6,7 +6,7 @@
 
 ###Запуск
 
-Нужен **ruby**, А также gem **Ruby on Rails**
+Нужен **ruby**, а также gem **Ruby on Rails**
 
 ### Поддерживаемые ОС
 
