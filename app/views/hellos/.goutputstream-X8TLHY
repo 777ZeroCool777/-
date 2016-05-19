@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Меня трудно найти, легко потерять и невозможно забыть ;)</h1>
+
+<p><img src="lol.jpg" height='478' with='386'></p>
+
+<h1> P.S. Вася из контакта.</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  
+</table>
+
+<br>
+
